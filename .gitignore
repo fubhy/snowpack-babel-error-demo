@@ -1,0 +1,6 @@
+# ignore log output
+*.log
+
+# Ignore build output and dependencies.
+build/
+node_modules/
